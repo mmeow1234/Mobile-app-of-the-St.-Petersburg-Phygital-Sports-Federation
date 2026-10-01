@@ -81,7 +81,7 @@
 - [UI Flow Shorthand Notation для сценария проверки заявок и документов организатором](https://github.com/mmeow1234/Mobile-app-of-the-St.-Petersburg-Phygital-Sports-Federation/blob/main/UI%20Flow%20Shorthand%20Notation%20diagrams/UI%20Flow%20Shorthand%20Notation%20для%20сценария%20проверки%20заявок%20и%20документов%20организатором.png) — шаги и решения организатора.
 
 ### Внедрение
-- [Акт о внедрении]([Акт%20о%20внедрении.png](https://github.com/mmeow1234/Mobile-app-of-the-St.-Petersburg-Phygital-Sports-Federation/blob/main/Акт%20о%20внедрении.png)) — подтверждение практической ценности и интеграции результатов разработки в Федерацию.
+- [Акт о внедрении](Акт%20о%20внедрении.png](https://github.com/mmeow1234/Mobile-app-of-the-St.-Petersburg-Phygital-Sports-Federation/blob/main/Акт%20о%20внедрении.png) — подтверждение практической ценности и интеграции результатов разработки в Федерацию.
 
 ---
 
