@@ -83,6 +83,8 @@
 ### Внедрение
 - [Акт о внедрении](https://github.com/mmeow1234/Mobile-app-of-the-St.-Petersburg-Phygital-Sports-Federation/blob/main/Акт%20о%20внедрении.png) — подтверждение практической ценности и интеграции результатов разработки в Федерацию.
 
+### Полный вариант документации
+- [Документация](https://github.com/mmeow1234/Mobile-app-of-the-St.-Petersburg-Phygital-Sports-Federation/blob/main/Документация%20клиентская%20часть%20мобильного%20приложения%20ФФС%20СПб.docx) — полная версия проекта.
 ---
 
 ## Вывод
